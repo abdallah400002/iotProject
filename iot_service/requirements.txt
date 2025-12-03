@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pymysql
+redis
+kafka-python
+python-dotenv
+cryptography
